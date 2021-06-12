@@ -1,7 +1,4 @@
 # Show-Hide-Password
 
-![pswd1](https://user-images.githubusercontent.com/74858612/121775992-71597b80-cb3f-11eb-9df2-bb8c8eab50e5.PNG)
-![pswd2](https://user-images.githubusercontent.com/74858612/121776152-255b0680-cb40-11eb-909b-d45ba04ab2b7.png)
-
-
-
+![pswd2](https://user-images.githubusercontent.com/74858612/121776209-6e12bf80-cb40-11eb-95e6-46047df5fe70.PNG)
+![pswd1](https://user-images.githubusercontent.com/74858612/121776201-65ba8480-cb40-11eb-8320-eae419004aad.PNG)
