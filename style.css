@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background-color: #eee;
+}
+
+.password_container {
+    position: relative;
+}
+
+i {
+    position: absolute;
+    top: 50%;
+    right: 23px;
+    transform: translateY(-45%);
+
+    cursor: pointer;
+    color: #999999;
+    font-weight: 100;
+}
+
+.password {
+    width: 300px;
+    padding: 20px;
+
+    outline: none;
+    border: none;
+    color: #999999;
+
+    box-shadow: 4px 4px 10px #0000001a,
+                -4px -4px 10px #fff,
+                inset 4px 4px 10px #0000001a,
+                inset -4px -4px 10px #fff;
+    background: transparent;
+}
